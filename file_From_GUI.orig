@@ -2,4 +2,8 @@ This file created from new_remote_repo from GUI
 updatefromcli
 updatefromgui
 updatefromcli2
+<<<<<<< HEAD
+updatefromcli3
+=======
 updatefromgui2
+>>>>>>> 010c731edbd85fb0501dc7f4c90a46a2d314564e
